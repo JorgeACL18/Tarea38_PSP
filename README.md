@@ -10,7 +10,7 @@ Ahora, introducimos la estructura del programa que es repetir las mismas línea 
 
 Por último, creamos un if-else con el cual se comparan las contraseñas que escribimos, si son iguales, nos concederá el acceso, pero, si son distintas, será denegado.
 
-<img width="1000" height="729" alt="Captura desde 2026-01-13 09-54-39" src="https://github.com/user-attachments/assets/dee836d6-8c1f-4a8a-b1af-1e72cc756bb6" />
+<img width="999" height="790" alt="Captura desde 2026-01-13 10-52-15" src="https://github.com/user-attachments/assets/78f7cea4-4cac-4401-8b00-ce7f4a48fcda" />
 
 ---
 
