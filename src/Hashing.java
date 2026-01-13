@@ -26,6 +26,9 @@ public class Hashing {
             } else {
                 System.out.println("ERROR: Acceso denegado");
             }
+
+            sc.close();
+
         } catch (NoSuchAlgorithmException e) {
             e.printStackTrace();
         }
